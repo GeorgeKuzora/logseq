@@ -1,0 +1,204 @@
+{:blocks (
+{:block/created-at 1728745887146
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [248 104]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Парсер"
+:id "fb7a7800-8860-11ef-8b6a-b5e6f358cdf2"
+:fontWeight 400
+:noFill false
+:point [280 152]
+:fontSize 20
+:parentId "670a1349-8d84-47c2-b8c1-fa3fa7270b1e"
+:nonce 1728713559066
+:italic false}}
+:block/updated-at 1728745887146} 
+{:block/created-at 1728745887180
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "007c0df2-8861-11ef-8b6a-b5e6f358cdf2"
+:fontWeight 400
+:noFill true
+:point [161 217]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "56b718e1-8861-11ef-8b6a-b5e6f358cdf2"}
+:end 
+{:id "end"
+:canBind true
+:point [115 0.73]
+:bindingId "57d13b71-8861-11ef-8b6a-b5e6f358cdf2"}}
+:decorations 
+{:end "arrow"}
+:parentId "670a1349-8d84-47c2-b8c1-fa3fa7270b1e"
+:nonce 1728713567509
+:italic false}}
+:block/updated-at 1728745887180} 
+{:block/created-at 1728740499139
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 0
+:borderRadius 2
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [256 88]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Токенизатор"
+:id "034df2a0-8861-11ef-8b6a-b5e6f358cdf2"
+:fontWeight 400
+:noFill false
+:point [-96 176]
+:fontSize 20
+:parentId "670a1349-8d84-47c2-b8c1-fa3fa7270b1e"
+:nonce 1728713572350
+:italic false}}
+:block/updated-at 1728740499139} 
+{:block/created-at 1728745916857
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [160 112]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Компилятор"
+:id "4327a9c0-88ac-11ef-8b6a-b5e6f358cdf2"
+:fontWeight 400
+:noFill false
+:point [696 128]
+:fontSize 20
+:parentId "670a1349-8d84-47c2-b8c1-fa3fa7270b1e"
+:nonce 1728745891496
+:italic false}}
+:block/updated-at 1728745916857} 
+{:block/content "При сравнении двух целых чисел будут использоваться обычные опе-\nраторы проверки равенства."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "670a1349-8d84-47c2-b8c1-fa3fa7270b1e"}
+:block/parent 
+{:block/uuid #uuid "670a1349-8d84-47c2-b8c1-fa3fa7270b1e"}
+:block/uuid #uuid "670a91a5-1ecb-4c84-a37c-51407918f2a5"} 
+{:block/created-at 1728745916897
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "505b06f2-88ac-11ef-8b6a-b5e6f358cdf2"
+:fontWeight 400
+:noFill true
+:point [529 191.36]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 7.15]
+:bindingId "505b06f0-88ac-11ef-8b6a-b5e6f358cdf2"}
+:end 
+{:id "end"
+:canBind true
+:point [163 0]
+:bindingId "505b06f1-88ac-11ef-8b6a-b5e6f358cdf2"}}
+:decorations 
+{:end "arrow"}
+:parentId "670a1349-8d84-47c2-b8c1-fa3fa7270b1e"
+:nonce 1728745913633
+:italic false}}
+:block/updated-at 1728745916897})
+:pages (
+{:block/uuid #uuid "670a1349-8d84-47c2-b8c1-fa3fa7270b1e"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "670a1349-8d84-47c2-b8c1-fa3fa7270b1e"
+:name "python интерпретатор"
+:bindings 
+{:56b718e1-8861-11ef-8b6a-b5e6f358cdf2 
+{:id "56b718e1-8861-11ef-8b6a-b5e6f358cdf2"
+:type "line"
+:fromId "007c0df2-8861-11ef-8b6a-b5e6f358cdf2"
+:toId "034df2a0-8861-11ef-8b6a-b5e6f358cdf2"
+:handleId "start"
+:point [0.49 0.46]
+:distance 4}
+:57d13b71-8861-11ef-8b6a-b5e6f358cdf2 
+{:id "57d13b71-8861-11ef-8b6a-b5e6f358cdf2"
+:type "line"
+:fromId "007c0df2-8861-11ef-8b6a-b5e6f358cdf2"
+:toId "fb7a7800-8860-11ef-8b6a-b5e6f358cdf2"
+:handleId "end"
+:point [0.51 0.63]
+:distance 4}
+:505b06f0-88ac-11ef-8b6a-b5e6f358cdf2 
+{:id "505b06f0-88ac-11ef-8b6a-b5e6f358cdf2"
+:type "line"
+:fromId "505b06f2-88ac-11ef-8b6a-b5e6f358cdf2"
+:toId "fb7a7800-8860-11ef-8b6a-b5e6f358cdf2"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:505b06f1-88ac-11ef-8b6a-b5e6f358cdf2 
+{:id "505b06f1-88ac-11ef-8b6a-b5e6f358cdf2"
+:type "line"
+:fromId "505b06f2-88ac-11ef-8b6a-b5e6f358cdf2"
+:toId "4327a9c0-88ac-11ef-8b6a-b5e6f358cdf2"
+:handleId "end"
+:point [0.51 0.53]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("fb7a7800-8860-11ef-8b6a-b5e6f358cdf2" "007c0df2-8861-11ef-8b6a-b5e6f358cdf2" "034df2a0-8861-11ef-8b6a-b5e6f358cdf2" "4327a9c0-88ac-11ef-8b6a-b5e6f358cdf2" "505b06f2-88ac-11ef-8b6a-b5e6f358cdf2")}}
+:block/updated-at 1728745916908
+:block/created-at 1728713545676
+:block/type "whiteboard"
+:block/name "python интерпретатор"
+:block/original-name "python интерпретатор"})}

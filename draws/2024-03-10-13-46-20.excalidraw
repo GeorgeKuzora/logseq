@@ -1,0 +1,82 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "file://",
+  "elements": [
+    {
+      "type": "rectangle",
+      "version": 38,
+      "versionNonce": 422403938,
+      "isDeleted": false,
+      "id": "Ax4Nfpl2i5ojR4tlgCCmD",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 117.82769775390625,
+      "y": 150.33633422851562,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 276.3888854980469,
+      "height": 100.00003051757814,
+      "seed": 728985086,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "4UYCDzvz20DmxdfHBfXji"
+        }
+      ],
+      "updated": 1710067725840,
+      "link": null,
+      "locked": false
+    },
+    {
+      "type": "text",
+      "version": 17,
+      "versionNonce": 1771282210,
+      "isDeleted": false,
+      "id": "4UYCDzvz20DmxdfHBfXji",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 179.46222686767578,
+      "y": 187.8363494873047,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "width": 153.1198272705078,
+      "height": 25,
+      "seed": 712040318,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1710067745858,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "hello excalidraw",
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "Ax4Nfpl2i5ojR4tlgCCmD",
+      "originalText": "hello excalidraw",
+      "lineHeight": 1.25,
+      "baseline": 17
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#FFF"
+  },
+  "files": {}
+}
