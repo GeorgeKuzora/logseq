@@ -1,0 +1,5 @@
+- ContextVar - Объект содержащий имя и значения одной переменной
+- Context - Mapping контекстных переменных к их значениям
+	- [collections.abc.Mapping](https://docs.python.org/3/library/collections.abc.html#collections.abc.Mapping) interface.
+	- Отдельный контекст для каждого потока
+		- [[Контекст и контекстные переменные]]
